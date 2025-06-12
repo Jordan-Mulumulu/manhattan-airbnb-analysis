@@ -19,3 +19,4 @@ Open the spreadsheet file in Excel or Google Sheets to explore the data and pivo
 
 *Project done as part of @TripleTen Data Analysis Sprint.*# manhattan-airbnb-analysis
 Analysis of Manhattan Airbnb listings using spreadsheets and pivot tables
+[Copy of nyc_airbnb_data_v2.xlsx](https://github.com/user-attachments/files/20702364/Copy.of.nyc_airbnb_data_v2.xlsx)
